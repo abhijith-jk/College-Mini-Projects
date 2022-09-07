@@ -1,0 +1,40 @@
+4,Ayush B,Present,23-11-21
+9,Abhijeet K,Present,23-11-21
+10,Abhijith,Present,23-11-21
+14,Aditya A,Present,23-11-21
+26,Aman T,Absent,23-11-21
+28,Amelin F,Absent,23-11-21
+29,Amisha A,Absent,23-11-21
+39,Anushree M,Absent,23-11-21
+44,Aryan,Absent,23-11-21
+52,Atharv P,Absent,23-11-21
+4,Ayush B,Present,23-11-21
+9,Abhijeet K,Present,23-11-21
+10,Abhijith,Present,23-11-21
+14,Aditya A,Present,23-11-21
+26,Aman T,Absent,23-11-21
+28,Amelin F,Absent,23-11-21
+29,Amisha A,Absent,23-11-21
+39,Anushree M,Absent,23-11-21
+44,Aryan,Absent,23-11-21
+52,Atharv P,Present,23-11-21
+4,Ayush B,Absent,24-11-21
+9,Abhijeet K,Present,24-11-21
+10,Abhijith,Present,24-11-21
+14,Aditya A,Absent,24-11-21
+26,Aman T,Present,24-11-21
+28,Amelin F,Absent,24-11-21
+29,Amisha A,Absent,24-11-21
+39,Anushree M,Absent,24-11-21
+44,Aryan,Present,24-11-21
+52,Atharv P,Absent,24-11-21
+4,Ayush B,Present,24-11-21
+9,Abhijeet K,Absent,24-11-21
+10,Abhijith,Present,24-11-21
+14,Aditya A,Absent,24-11-21
+26,Aman T,Present,24-11-21
+28,Amelin F,Present,24-11-21
+29,Amisha A,Absent,24-11-21
+39,Anushree M,Absent,24-11-21
+44,Aryan,Absent,24-11-21
+52,Atharv P,Present,24-11-21

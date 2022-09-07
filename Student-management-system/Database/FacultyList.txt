@@ -1,0 +1,7 @@
+Murthy,1,root,CSE,murthy@gmail.com
+Rekha S,2,root,CSE,rekhas@gmail.com
+Pooja P,3,root,CSE,poojap@gmail.com
+Karishma C,4,root,CSE,karishmac@gmail.com
+Bondu V,5,root,CSE,bonduv@gmail.com
+Krishna S,6,root,CSE,krishnas@gmail.com
+Srinivas,7,root,CSE,srinivasa@gmail.com

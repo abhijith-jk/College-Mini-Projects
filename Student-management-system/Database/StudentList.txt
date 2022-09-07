@@ -1,0 +1,10 @@
+Ayush B,4,root,24-09-01,CSE,A,5,ayushb@gmail.com
+Abhijeet K,9,root,20-11-02,CSE,A,5,abhijeetkr@gmail.com
+Abhijith,10,root,1-3-01,CSE,A,5,abhijith@gmail.com
+Aditya A,14,root,15-07-01,CSE,A,5,adityaa@gmail.com
+Aman T,26,root,31-07-01,CSE,A,5,amant@gmail.com
+Amelin F,28,root,02-04-01,CSE,A,5,amelinf@gmail.com
+Amisha A,29,root,25-06-00,CSE,A,5,amisha@gmail.com
+Anushree M,39,root,07-10-01,CSE,A,5,anushreem@gmail.com
+Aryan,44,root,14-7-01,CSE,A,5,aryan@gmail.com
+Atharv P,52,root,10-05-01,CSE,A,5,atharvp@gmail.com
