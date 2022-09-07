@@ -1,0 +1,2 @@
+Link to the data set in the model :
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
